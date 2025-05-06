@@ -30,10 +30,10 @@ A more detailed breakdown is available here:
 ## 🎥 Results
 Behold the fruit of this laborious endeavor:
 
-[![Watch the demo](https://img.youtube.com/vi/XoqtPuh6WnE/0.jpg)](https://www.youtube.com/watch?v=XoqtPuh6WnE)
+https://github.com/user-attachments/assets/5ca737c6-e2bb-46e3-8674-b155f390920f
 
 Special thanks to Cacao Motion for the perfect video:
-[![Original Source](https://img.youtube.com/vi/urRQuGRkzcs/0.jpg)](https://www.youtube.com/watch?v=urRQuGRkzcs)
+[Youtube)](https://www.youtube.com/watch?v=urRQuGRkzcs)
 
 ## ☕ Disclaimer
 This project is best enjoyed with a strong cup of coffee, ample free time, and a willingness to embrace imperfection.
